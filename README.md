@@ -1,6 +1,6 @@
 <h1 align="center">ToDO list</h1>
 
-<p align="center">A ToDO list using vanilla Js project</p>
+<p align="center">A simple and interactive To-Do List application using only plain (vanilla) JavaScript, HTML, and CSS. The To-Do List app will allow users to create, manage, and organize their tasks, providing a practical example of my front-end web development skills.</p>
 
 ## Links
 
